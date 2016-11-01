@@ -1,0 +1,75 @@
+p {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #454544;
+	text-align: left;
+}
+
+#cssClass {
+	font-family: Verdana;
+	font-size: 17px;
+	color: #454544;
+	text-align: left;
+	font-weight: bold;
+}
+
+b_p {
+	font-weight: bold;
+}
+
+left_p {
+	text-align: left;
+}
+
+right_p {
+	text-align: right;
+}
+
+center_p {
+	text-align: center;
+}
+
+boldcenter_center_p {
+	font-weight: bold;
+}
+
+rightheader_p {
+	font-size: 17px;
+	color: #454544;
+	text-align: right;
+	letterSpacing: 0.5;
+}
+
+header_p {
+	font-size: 20px;
+	color: #454544;
+	letterSpacing: 0.5;
+}
+
+description_p {
+	color: #454544;
+}
+
+subtitle_p {
+	font-size: 16px;
+	color: #454544;
+}
+
+bonus_p {
+	color: #368E33;
+}
+
+malus_p {
+	color: #A90606;
+}
+
+malusblack_p {
+	color: #000000;
+}
+
+text {
+	font-family: Roboto;
+	font-size: 17px;
+	color: #454544;
+	text-align: left;
+}

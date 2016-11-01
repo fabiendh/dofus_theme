@@ -1,0 +1,14 @@
+p {
+	font-family: Roboto;
+	font-size: 16;
+	color: #454544;
+	paddingLeft: 13px;
+	verticalAlign: CENTER;
+}
+
+maincontainer {
+	font-family: Roboto;
+	font-size: 15;
+	color: #E7DEDA;
+	paddingLeft: 13px;
+}
